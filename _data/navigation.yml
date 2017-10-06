@@ -4,3 +4,8 @@
   url: /projects/
   excerpt: "My coding projects"
   image: 400x250-1.png
+
+- title: Artwork
+  url: /art/
+  excerpt: "My Artwork"
+  image: 400x250-1.png
